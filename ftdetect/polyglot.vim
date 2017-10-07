@@ -1019,8 +1019,8 @@ au BufNewFile,BufRead *.thrift setlocal filetype=thrift
 augroup END
 
 augroup filetypedetect
-" tmux:keith/tmux.vim
-autocmd BufNewFile,BufRead {.,}tmux*.conf* setfiletype tmux
+" tmux:tmux-plugins/vim-tmux
+autocmd BufNewFile,BufRead {.,}tmux*.conf set ft=tmux | compiler tmux
 augroup END
 
 augroup filetypedetect

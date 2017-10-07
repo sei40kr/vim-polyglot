@@ -130,7 +130,7 @@ If you need full functionality of any plugin, please use it directly with your p
 - [terraform](https://github.com/hashivim/vim-terraform) (syntax, indent, ftplugin)
 - [textile](https://github.com/timcharper/textile.vim) (syntax, ftplugin)
 - [thrift](https://github.com/solarnz/thrift.vim) (syntax)
-- [tmux](https://github.com/keith/tmux.vim) (syntax, ftplugin)
+- [tmux](https://github.com/tmux-plugins/vim-tmux) (syntax, indent, compiler, autoload, ftplugin)
 - [tomdoc](https://github.com/wellbredgrapefruit/tomdoc.vim) (syntax)
 - [toml](https://github.com/cespare/vim-toml) (syntax, ftplugin)
 - [twig](https://github.com/lumiliet/vim-twig) (syntax, indent, ftplugin)
